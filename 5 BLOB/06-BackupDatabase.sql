@@ -1,0 +1,23 @@
+﻿
+--تهیه نسخه پشتیبان از بانک اطلاعاتی
+USE master
+GO
+BACKUP DATABASE MyDB2017 TO DISK ='C:\Temp\MyDB2017_Full.bak'
+	WITH COMPRESSION
+GO
+RESTORE FILELISTONLY  FROM DISK ='C:\Temp\MyDB2017_Full.bak'
+GO
+--------------------------------
+--بازیابی نسخه پشتیبان
+GO
+USE master
+GO
+IF DB_ID('MyDB2017')>0
+BEGIN
+	ALTER DATABASE MyDB2017 SET SINGLE_USER WITH ROLLBACK IMMEDIATE
+	DROP DATABASE MyDB2017
+END
+GO
+RESTORE DATABASE MyDB2017 FROM DISK ='C:\Temp\MyDB2017_Full.bak' 
+GO
+--RESTORE DATABASE...
