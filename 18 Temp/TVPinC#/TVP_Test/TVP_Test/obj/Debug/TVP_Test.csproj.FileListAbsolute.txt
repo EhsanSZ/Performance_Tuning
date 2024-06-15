@@ -1,0 +1,9 @@
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\bin\Debug\TVP_Test.exe.config
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\bin\Debug\TVP_Test.exe
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\bin\Debug\TVP_Test.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\obj\Debug\TVP_Test.csprojResolveAssemblyReference.cache
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\obj\Debug\TVP_Test.Form1.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\obj\Debug\TVP_Test.Properties.Resources.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\obj\Debug\TVP_Test.csproj.GenerateResource.Cache
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\obj\Debug\TVP_Test.exe
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session18\Scripts\TVPinC#\TVP_Test\TVP_Test\obj\Debug\TVP_Test.pdb
