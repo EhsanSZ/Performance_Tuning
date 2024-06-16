@@ -1,0 +1,9 @@
+﻿-
+--Online Reubuild Index & SQL Server Profiler
+USE AdventureWorks2017
+GO
+ALTER INDEX ALL ON SALES.SalesOrderDetail REBUILD
+GO
+ALTER INDEX ALL ON SALES.SalesOrderDetail REBUILD
+	WITH (ONLINE=ON,DATA_COMPRESSION=NONE)
+GO
