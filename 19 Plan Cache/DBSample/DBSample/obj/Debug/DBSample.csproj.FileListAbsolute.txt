@@ -1,0 +1,46 @@
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\DBSample.exe.config
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\DBSample.exe
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\DBSample.pdb
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.csprojResolveAssemblyReference.cache
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.Properties.Resources.resources
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.csproj.GenerateResource.Cache
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.exe
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.pdb
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\EntityFramework.dll
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\EntityFramework.xml
+E:\NikAmooz\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.MainForm.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\DBSample.exe.config
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.exe
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.pdb
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.csprojResolveAssemblyReference.cache
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.MainForm.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.Properties.Resources.resources
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\obj\Debug\DBSample.csproj.GenerateResource.Cache
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\DBSample.exe
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\DBSample.pdb
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\EntityFramework.dll
+E:\NikAmooz\دوره ها\PerformanceTuning_Course\Session10\Section01\DBSample\DBSample\bin\Debug\EntityFramework.xml
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\bin\Debug\DBSample.exe.config
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\obj\Debug\DBSample.exe
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\obj\Debug\DBSample.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\bin\Debug\DBSample.exe
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\bin\Debug\DBSample.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\bin\Debug\EntityFramework.dll
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\bin\Debug\EntityFramework.xml
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\obj\Debug\DBSample.csprojResolveAssemblyReference.cache
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\obj\Debug\DBSample.MainForm.resources
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\obj\Debug\DBSample.Properties.Resources.resources
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\obj\Debug\DBSample.csproj.GenerateResource.Cache
+D:\NikAmooz\دوره ها\PerformanceTuning_NewCourse\Course\Session15\01-PlanCache\DBSample\DBSample\obj\Debug\DBSample.frmAdhocWorkLoads.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\bin\Debug\DBSample.exe.config
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\obj\Debug\DBSample.exe
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\obj\Debug\DBSample.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\bin\Debug\DBSample.exe
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\bin\Debug\DBSample.pdb
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\bin\Debug\EntityFramework.dll
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\bin\Debug\EntityFramework.xml
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\obj\Debug\DBSample.csprojResolveAssemblyReference.cache
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\obj\Debug\DBSample.frmAdhocWorkLoads.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\obj\Debug\DBSample.MainForm.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\obj\Debug\DBSample.Properties.Resources.resources
+D:\NikAmooz\دوره ها\PerformanceTuning\PerformanceTuning2017\Session19\Scripts\DBSample\DBSample\obj\Debug\DBSample.csproj.GenerateResource.Cache
